@@ -3,6 +3,8 @@
 Wheatstone bridge circuit: http://iitg.vlab.co.in/?sub=61&brch=174&sim=1035&cnt=1 (can't be used as such ... I think it just
 gives the idea)
 
+NI app note; explains how to use 3-wire pt100 in bridge form: https://newton.ex.ac.uk/teaching/CDHW/Sensors/an046.pdf
+
 Microchip app note: http://ww1.microchip.com/downloads/en/appnotes/00687c.pdf (precision temp sensing with rtd)
 
 avrfreaks discussion: http://www.avrfreaks.net/forum/pt100-conditioning-circuit
