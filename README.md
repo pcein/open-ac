@@ -1,6 +1,7 @@
 # open-ac
 
-Wheatstone bridge circuit: http://iitg.vlab.co.in/?sub=61&brch=174&sim=1035&cnt=1
+Wheatstone bridge circuit: http://iitg.vlab.co.in/?sub=61&brch=174&sim=1035&cnt=1 (can't be used as such ... I think it just
+gives the idea)
 
 Microchip app note: http://ww1.microchip.com/downloads/en/appnotes/00687c.pdf (precision temp sensing with rtd)
 
