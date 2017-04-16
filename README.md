@@ -13,3 +13,7 @@ Purpose of 3 wires in a pt100: https://www.vertex-qis.co.uk/Manuals/PT100_con.pd
 
 RTD measurement theory: http://www.omega.com/techref/rtd-measurement-and-theory.html
 
+A post which mentions a simple idea: https://forum.allaboutcircuits.com/threads/need-help-with-pt100.36279/
+
+
+
